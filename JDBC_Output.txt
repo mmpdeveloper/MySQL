@@ -1,0 +1,8 @@
+C:\Users\mprister1\.jdks\openjdk-18\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\lib\idea_rt.jar=63239:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\v-mprister\IdeaProjects\JDBC_01\out\production\JDBC_01;C:\Program Files (x86)\MySQL\Connector J 8.0\mysql-connector-java-8.0.30.jar" JDBC.JDBC
+10201:CSE:Kiran:Acharya:2018:1272:
+10202:CSE:Kiran:Thomas:2019:1234:
+10203:CSE:Anatole:Bravia:2021:1253:
+10204:CSE:Pierre:Tolstoy:2018:1285:
+10205:CSE:Anna:Palvna:2020:1332:
+
+Process finished with exit code 0
